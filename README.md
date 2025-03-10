@@ -34,8 +34,8 @@ graph TD;
 ## ⚙ Installation & Setup
 1. *Clone the repository:*
    sh
-   git clone https://github.com/shreyash4145/End-to-end-solution-for-smart-tomato-cultivation.git
-   cd End-to-end-solution-for-smart-tomato-cultivation
+   git clone https://github.com/shravaniiiii12/Smart_Tomato_Cultivation
+   cd Smart_Tomato_Cultivation
    
 2. *Install dependencies:*
    sh
